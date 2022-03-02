@@ -1371,6 +1371,7 @@ main {
     padding: 12px 0;
     background-color: #ffffff;
     box-shadow: 0 -12px 12px -4px rgba(16, 24, 40, 0.02);
+    z-index: 10;
   }
 
   .header__bottom > .header__container {
